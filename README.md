@@ -22,7 +22,7 @@ I enjoy learning by building real projects and exploring new technologies step b
 - 🌱 Currently learning and building Full-Stack Applications  
 - 🤝 Open to collaborate on real-world projects  
 - 👀 Love solving problems through code  
-- 📫 Reach me at: **g03449999@gmail.com**  
+- 📫 Reach me at: **sudheermishra8587@gmail.com**  
 - ⚡ Fun fact: I learn best by building real projects  
 
 ---
@@ -47,7 +47,7 @@ I enjoy learning by building real projects and exploring new technologies step b
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:g03449999@gmail.com">
+<a href="mailto:sudheermishra8587@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 
