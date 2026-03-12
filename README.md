@@ -1,5 +1,6 @@
 <a href="https://your-portfolio-link-here">
-<img src="https://github.com/user-attachments/assets/88fdda90-6d4c-42ec-a945-b9782385465e" alt="MasterHead" width="100%" />
+<!-- <img src="https://github.com/user-attachments/assets/88fdda90-6d4c-42ec-a945-b9782385465e" alt="MasterHead" width="100%" /> -->
+  <img src="github-banner.svg" alt="MasterHead" width="100%"/>
 </a>
 
 <div align="center">
