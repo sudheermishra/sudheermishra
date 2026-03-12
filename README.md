@@ -1,6 +1,5 @@
 <a href="https://your-portfolio-link-here">
-<!-- <img src="https://github.com/user-attachments/assets/88fdda90-6d4c-42ec-a945-b9782385465e" alt="MasterHead" width="100%" /> -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF88&background=0D0D0D00&center=true&vCenter=true&width=1200&height=100&lines=Hi+I'm+Sudheer+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+%7C+Next.js;Building+the+future+one+commit+at+a+time+%E2%9C%A8" alt="MasterHead" width="100%"/>
+<img src="https://github.com/user-attachments/assets/88fdda90-6d4c-42ec-a945-b9782385465e" alt="MasterHead" width="100%" />
 </a>
 
 <div align="center">
