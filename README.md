@@ -48,6 +48,8 @@ I enjoy learning by building real projects and exploring new technologies step b
 </a>
 </p>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudheermishra/sudheermishra/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudheermishra/sudheermishra/output/github-snake.svg" />
