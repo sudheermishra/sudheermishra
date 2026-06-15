@@ -16,19 +16,15 @@ I have a strong interest in building modern web applications and continuously im
 I enjoy learning by building real projects and exploring new technologies step by step. I believe consistent practice and curiosity are the best ways to grow as a developer, and I'm always working towards becoming a more complete full-stack engineer 🚀
 </p>
 
-<img src="https://github.com/user-attachments/assets/83b1a90a-d77c-4fe6-b44a-93ff38dd26d4" align="right" alt="Coding" width="380" />
 
-- 🌱 Currently learning and building Full-Stack Applications
-- 🤝 Open to collaborate on real-world projects
-- 👀 Love solving problems through code
-- 📫 Reach me at: **sudheermishra8587@gmail.com**
-- ⚡ Fun fact: I learn best by building real projects
+
+
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tools & Technologies I Use
+###  Tools & Technologies I Use
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman,vscode" />
@@ -36,7 +32,7 @@ I enjoy learning by building real projects and exploring new technologies step b
 
 ---
 
-### 🌐 Connect with me
+###  Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sudheer-mishra-b7302a258/">
@@ -52,4 +48,8 @@ I enjoy learning by building real projects and exploring new technologies step b
 </a>
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudheermishra/sudheermishra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudheermishra/sudheermishra/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sudheermishra/sudheermishra/output/github-snake.svg" />
+</picture>
