@@ -13,7 +13,7 @@ I have a strong interest in building modern web applications and continuously im
 </p>
 
 <p align="center">
-I enjoy learning by building real projects and exploring new technologies step by step. I believe consistent practice and curiosity are the best ways to grow as a developer, and I'm always working towards becoming a more complete full-stack engineer 🚀
+I enjoy learning by building real projects and exploring new technologies step by step. I believe consistent practice and curiosity are the best ways to grow as a developer, and I'm always working towards becoming a more complete full-stack engineer 
 </p>
 
 
