@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer based in India 🇮🇳</h3>
 
 <p align="center">
-I have a strong interest in building modern web applications and continuously improving my development skills. My main focus is <b>React and JavaScript</b>, and I also have working knowledge of <b>Node.js, Express, and MongoDB</b> for backend development.
+I have a strong interest in building modern web applications and continuously improving my development skills.
 </p>
 
 <p align="center">
