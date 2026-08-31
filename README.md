@@ -46,6 +46,10 @@ I enjoy learning by building real projects and exploring new technologies step b
 <a href="mailto:sudheermishra8587@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
+<a href="https://x.com/Sudheer7ms">
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/>
+</a>
+</a>
 </p>
 
 ---
