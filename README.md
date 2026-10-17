@@ -28,8 +28,6 @@ I enjoy learning by building real projects and exploring new technologies step b
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redis,kafka,linux,git,github,postman,vscode" />
-<img src="https://cdn.simpleicons.org/zustand" alt="Zustand" />
-<img src="https://cdn.simpleicons.org/zod" alt="Zod" />
 </p>
 
 ---
